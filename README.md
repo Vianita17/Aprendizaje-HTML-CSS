@@ -1,6 +1,7 @@
 # Portfolio ¡Hola, bienvenido a mi proyecto de portafolio!
 
-Pagina Web: https://aprendizaje-html-css-portafolio.vercel.app/index.html
+
+![imagen](https://aprendizaje-html-css-portafolio.vercel.app/index.html)
 
 ## Herramientas utilizadas:
 
