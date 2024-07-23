@@ -1,6 +1,6 @@
 # Portfolio ¡Hola, bienvenido a mi proyecto de portafolio!
 
-https://aprendizaje-html-css-portafolio.vercel.app/index.html
+Pagina Web: https://aprendizaje-html-css-portafolio.vercel.app/index.html
 
 ## Herramientas utilizadas:
 
@@ -12,6 +12,6 @@ https://aprendizaje-html-css-portafolio.vercel.app/index.html
 
 ## Hecho por:
 
-###Julian Viana
+### Julian Viana
 
 ### Linkedin: https://www.linkedin.com/in/julian-adrian-viana-palomo-29363a313/
